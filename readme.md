@@ -1,5 +1,6 @@
 
 ## dhtmlxGantt 練習
+目前功能可以建立、編輯、刪除與調整任務順序。
 
 1.下載程式碼
 - git clone https://github.com/rueibin/gannt.git
