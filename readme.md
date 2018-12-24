@@ -1,5 +1,5 @@
 
-## dhtmlxGantt 練習
+## dhtmlxGantt 甘特圖
 功能可以建立、編輯、刪除與調整任務順序。
 
 1.下載程式碼
